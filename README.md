@@ -1,2 +1,2 @@
 # Calculadora
- Projeto de uma Calculadora construída utilizando ReactJS
+ Projeto de uma Calculadora em ReactJS
